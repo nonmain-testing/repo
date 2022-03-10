@@ -1,0 +1,1 @@
+print("amongus 5")
